@@ -7,6 +7,8 @@ Click EXE/ModelTest.exe to run the anime
 
 The whole anime loop can last up to around 5 minutes  
 
+Any quoting， copying or other misappropriation without permission is prohibited  
+
 
 # 中文：
 一个简单的Unity循环动画：跳嘻哈舞的小女孩  
@@ -18,3 +20,5 @@ The whole anime loop can last up to around 5 minutes
 此文件为2024年秋季学期《大学生信息素养》结课作业  
 
 未经允许禁止任何引用、复制等挪用行为
+
+作者：2022303567朱一凡
