@@ -1,4 +1,4 @@
-# A-Simple-Loop-Anime-Mmade-with-Unity
+# A-Simple-Loop-Anime-Made-with-Unity
 
 # English:
 A simple loop anime about a girl making hiphop dance, which is made with Unity  
