@@ -7,7 +7,7 @@ Click EXE/ModelTest.exe to run the anime
 
 The whole anime loop can last up to around 5 minutes  
 
-Any quoting， copying or other misappropriation without permission is prohibited  
+Any quoting, copying or other misappropriation without permission is prohibited  
 
 
 # 中文：
