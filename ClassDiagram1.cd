@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CameraCtrl">
+    <Position X="14.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CameraCtrl.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="offset" />
+      <Field Name="target" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CoinCtrl">
+    <Position X="2" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CoinCtrl.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="speed" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PlayerCtrl">
+    <Position X="6" Y="6" Width="1.5" />
+    <AssociationLine Name="coinAudio" Type="UnityEngine.AudioClip">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.102" Y="0.072" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AgRQAAAAACAAgQAEAAAAAAAAAAAAEQCIQAgAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerCtrl.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="audioSource" />
+      <Field Name="ballAudio" />
+      <Field Name="coinAudio" />
+      <Field Name="rb" />
+      <Field Name="scoreText" />
+      <Field Name="timerText" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ScoreMgr">
+    <Position X="6" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Assets\Scripts\ScoreMgr.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="CurrentCountString" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TimeMgr">
+    <Position X="12.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAAAAAAAAAAAAAAAAAAAAAAAAAACAEAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\TimeMgr.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="currentTimer" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="UIMgr">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAIAAAAAAAAAAQAEAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\UIMgr.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Instance" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="UnityEngine.AudioSource" Collapsed="true">
+    <Position X="10" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UnityEngine.AudioClip" Collapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UnityEngine.Rigidbody" Collapsed="true">
+    <Position X="10" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TMPro.TMP_Text" Collapsed="true">
+    <Position X="10" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.String" Collapsed="true">
+    <Position X="10" Y="10.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UnityEngine.Transform" Collapsed="true">
+    <Position X="11.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Single" Collapsed="true">
+    <Position X="4.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="UnityEngine.Vector3" Collapsed="true">
+    <Position X="12.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Struct>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
