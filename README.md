@@ -18,7 +18,3 @@ Any quoting, copying or other misappropriation without permission is prohibited
 循环时长为5分钟  
 
 此文件为2024年秋季学期《大学生信息素养》结课作业  
-
-未经允许禁止任何引用、复制等挪用行为
-
-作者：2022303567朱一凡
